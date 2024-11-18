@@ -39,9 +39,9 @@ This roadmap is designed for beginners to Data Structures and Algorithms (DSA). 
 6. Find the 'Kth' largest and smallest element in an array.
 7. Sort an array of 0s, 1s, and 2s.
 8. Check if an array is a subset of another.
-9. Maximum sum subarray of size k.
-10. Longest subarray with a given sum.
-11. Subarray with 0 sum.
+9. Maximum sum sub array of size k.
+10. Longest sub array with a given sum.
+11. Sub array with 0 sum.
 12. Merge two sorted arrays.
 13. Trapping rainwater.
 14. Longest consecutive subsequence.
